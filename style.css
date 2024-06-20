@@ -1,0 +1,22 @@
+body{
+    background:rgb(255, 251, 0);
+    color:rgb(16, 0, 85)
+}
+.heading{
+    width:80%;
+    height:60px;
+    font-size:40px;
+}
+.name_of_objects{
+    color:rgba(116, 115, 99, 0.856);
+    font-size:25px;
+}
+#camera, #result{
+    width:350px;
+    height:350px;
+    border:2px dotted black;
+}
+hr{
+   background:black;
+   
+}
